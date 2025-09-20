@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Soham%20Wadekar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
----
-
 ## 👋 Hi, I’m Soham
 - 🎓 Jr Software Engineer @ **NityaObject Software Services Pvt Ltd**
 - 🤖 Passionate about **Machine Learning, AI, and DevOps**
@@ -41,8 +39,6 @@
   <a href="https://www.linkedin.com/in/soham-wadekar-716b7722a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Soham-Wadekar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
